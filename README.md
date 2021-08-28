@@ -4,3 +4,6 @@ it can be integrated with any timer peripheral whether a generic or Systick one.
 The scheduler was integrated and tested with ATMega32 (TIMER0, Normal mode) and ARM CORTEX-M4 TM4C123gh6pm -Tiva C Launchpad (SysTick).
 The scheduler time unit is " tick " which can be adjusted using the General-Purpose Timer (Gpt), but it's preferable to operate on
 one-mSec tick interval.
+
+Link:
+https://maker.pro/custom/tutorial/a-simple-time-trigger-scheduler-for-stm32-and-msp430-projects
